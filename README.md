@@ -1,5 +1,5 @@
-Advanced SAS Demo 2
-===================
+Advanced SAS Demo 2 : Categorical Analysis
+==========================================
 
 ## Overview
 
